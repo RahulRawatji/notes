@@ -31,3 +31,4 @@ In the Centralized VCS, every commit was directly happening to the, say, remote 
 * Mercurial
 * Perforce
  
+[ Git Commands CheatSheet!](https://education.github.com/git-cheat-sheet-education.pdf)
