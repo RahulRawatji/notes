@@ -9,6 +9,6 @@
 ### Now you have generated the SSH key next step is to add your key to github
 
 3. In your terminal/bash type :clip < ~/.ssh/id_rsa.pub # Windows
-* You have your key in your clipboard
+    * You have your key in your clipboard
 4. Goto github.com -> setting -> ssh -> add ssh
 5. Paste the key 
